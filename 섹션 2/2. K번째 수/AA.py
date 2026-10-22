@@ -35,7 +35,7 @@ for i in range(1, A+1):
     awnser = sliced_list[k-1]
     print(f"#{i} {awnser}")
     
-
+# 정석방식
 # for i in range(1, A+1):
 #     n, s, e, k = map(int, input().split())
 #     a=list(map(int, input().split()))
