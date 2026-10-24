@@ -26,6 +26,10 @@ for j in range(len(list_B)):
 
 print(f"{avg} {final}")
 
+
+    
+
+
 # -----------------------------------------------
 # ave=round(sum(a)/n)
 # # idx 인덱스번호, x실제값
