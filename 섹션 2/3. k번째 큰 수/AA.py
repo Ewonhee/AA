@@ -1,6 +1,6 @@
 import sys
 
-# sys.stdin = open("intput.txt",'rt')
+# sys.stdin = open("in2.txt",'rt')
 
 A, B = map(int, input().split())
 list_c = list(map(int, input().split()))
