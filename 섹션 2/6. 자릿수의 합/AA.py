@@ -14,7 +14,17 @@ def digit_sum(X):
     for i in range(len(intsum)):
         total+=int(intsum[i])
 
+    # for i in str(x):
+
     return total
+
+# 125를 10나눈몫으로 1+2+5한다.
+# def digit_sum_2(X):
+#     sum=0
+#     while>0:
+#         sum+=x%10 나머지
+#         x=x//10 몫
+#     return sum
 
 # print(digit_sum(123))
 
@@ -40,8 +50,9 @@ for idx, num in enumerate(numbers):
 
 
 
-print(numbers[cnt])
-# print(cnt)
+# print(numbers[cnt])
+print(answer)
+
 
     
     
